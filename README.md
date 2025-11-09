@@ -82,15 +82,14 @@ The architecture is based on a **3-tier design**:
 ## 📦 Repository Structure
 aws-cafe-bakery-project/
 │
-├── app/ # Flask application files
-├── templates/ # HTML templates
-├── screenshots/ # Architecture & output images
+├── app/
+├── templates/
+├── screenshots/
 │ ├── architecture.png
 │ └── output.png
-├── vpc-cafe-bakery.yaml # CloudFormation template
-├── requirements.txt # Dependencies
+├── vpc-cafe-bakery.yaml
+├── requirements.txt
 └── README.md
-
 
 
 ---
