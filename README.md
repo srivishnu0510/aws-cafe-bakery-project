@@ -1,5 +1,4 @@
-<img width="1366" height="768" alt="output" src="https://github.com/user-attachments/assets/af2eb1c7-ac4b-46ae-bf30-cfa127393aff" />
-<img width="1536" height="1024" alt="![Architecture Diagram](screenshots/architecture.png)" src="https://github.com/user-attachments/assets/8fdeaa8e-8e8b-4302-a133-fdfdbb4e0b08" />
+
 # ☁️ AWS Cafe & Bakery Project
 
 This project demonstrates how to host a simple web application on AWS using the Well-Architected Framework.
@@ -20,8 +19,12 @@ This project demonstrates how to host a simple web application on AWS using the 
 4. Verified app via ALB DNS name
 
 ## 📸 Screenshots
-![Architecture Diagram](screenshots/architecture.png)
-![Website Output](screenshots/website.png)
+
+Architecture Diagram
+<img width="1000" height="1024" alt="![Architecture Diagram](screenshots/architecture.png)" src="https://github.com/user-attachments/assets/8fdeaa8e-8e8b-4302-a133-fdfdbb4e0b08" />
+
+Website Output
+<img width="1366" height="768" alt="output" src="https://github.com/user-attachments/assets/af2eb1c7-ac4b-46ae-bf30-cfa127393aff" />
 
 ## 🎯 Outcome
 A fully automated and monitored 3-tier web app hosted on AWS.
